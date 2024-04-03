@@ -58,7 +58,7 @@ Installing and importing libraries to the code (in anaconda prompt):
 
 step 1: You need to keep the three folders and main ipynb file on the same directory.
 
-Step 2: open the 'ADM-PROJECT-FINAL.ipynb' file using the Jupyter notebook.
+Step 2: open the 'License Plate.ipynb' file using the Jupyter notebook.
 
 step 3: You will be able to see multiple cells. run each cell one by one.
 
