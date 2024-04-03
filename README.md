@@ -31,9 +31,9 @@ The uploaded files include the datasets for the project
 -------------------------------------------------------
 
 1. 'Numbers-Alphabets' folder (contains 'train' and 'val' folders to train the model // contains folders with images of numbers and alphabets)
-2. 'whiteplate_normal' and 'yellowplate_normal' folders (these contains images of numberplates). 
+2. 'whiteplate_normal' and 'yellowplate_normal' folders (these contain images of numberplates). 
 3. 'Test Number Plates' folder for testing the final output.
-4. 'ADM-PROJECT-FINAL.ipynb' file - this is the main file that needs to be open using the Jupyter notebook.
+4. 'License Plate.ipynb' file - this is the main file that needs to be opened using the Jupyter notebook.
 
 Installing and importing libraries to the code (in anaconda prompt):
 ------------------------------------------------
